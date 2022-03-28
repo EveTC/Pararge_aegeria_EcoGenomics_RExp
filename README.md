@@ -1,4 +1,4 @@
-# _Pararge aegeria_ Ecologcial genomics of range expasnion
+# Ecologcial genomics of range expasnion in _Pararge aegeria_ 
 
 This repository for the manuscript titled "Polygenic adaptation and genetic redundancy during climate-driven range expansions through heterogenous landscapes"
 
