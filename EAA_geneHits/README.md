@@ -1,3 +1,1 @@
-# Environmental association analyses - Gene Hits
-
-Files here:
+# Closest genes to outlier loci idenitified using Environmental association analyses
